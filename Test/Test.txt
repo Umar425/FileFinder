@@ -1,7 +1,0 @@
-Umar
-Ubaid
-Nauman
-Parallel
-Distributed
-Client
-Server
